@@ -25,3 +25,4 @@
 [06-04-2025 06:46:42.202 PM] info: 	O servidor está rodando em http://localhost:3000
 [06-04-2025 06:46:51.743 PM] info: 	O servidor está rodando em http://localhost:3000
 [06-04-2025 06:46:53.217 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:50:51.170 PM] error: 	o valor nulo na coluna "product_id" da relação "reviews" viola a restrição de não-nulo
