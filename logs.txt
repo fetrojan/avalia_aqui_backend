@@ -4,3 +4,13 @@
 [06-04-2025 04:54:08.342 PM] info: 	O servidor está rodando em http://localhost:3000
 [06-04-2025 04:54:09.793 PM] info: 	O servidor está rodando em http://localhost:3000
 [06-04-2025 04:57:04.128 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 04:58:39.851 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 04:59:30.893 PM] error: 	sintaxe de entrada é inválida para tipo numeric: "R$ 39,99"
+[06-04-2025 04:59:40.315 PM] error: 	sintaxe de entrada é inválida para tipo numeric: "39,99"
+[06-04-2025 05:47:53.363 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:09:02.606 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:09:33.115 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:10:19.799 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:10:33.834 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:10:38.808 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:10:46.866 PM] info: 	O servidor está rodando em http://localhost:3000
