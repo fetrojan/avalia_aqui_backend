@@ -2,3 +2,5 @@
 [06-04-2025 01:40:05.079 PM] info: 	O servidor está rodando em http://localhost:3000
 [06-04-2025 04:44:57.979 PM] info: 	O servidor está rodando em http://localhost:3000
 [06-04-2025 04:54:08.342 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 04:54:09.793 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 04:57:04.128 PM] info: 	O servidor está rodando em http://localhost:3000
