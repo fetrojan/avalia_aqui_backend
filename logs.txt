@@ -14,3 +14,14 @@
 [06-04-2025 06:10:33.834 PM] info: 	O servidor está rodando em http://localhost:3000
 [06-04-2025 06:10:38.808 PM] info: 	O servidor está rodando em http://localhost:3000
 [06-04-2025 06:10:46.866 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:42:41.936 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:42:47.210 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:42:59.028 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:44:43.738 PM] error: 	o valor nulo na coluna "product_id" da relação "reviews" viola a restrição de não-nulo
+[06-04-2025 06:45:04.165 PM] error: 	o valor nulo na coluna "product_id" da relação "reviews" viola a restrição de não-nulo
+[06-04-2025 06:46:04.874 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:46:06.688 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:46:40.639 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:46:42.202 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:46:51.743 PM] info: 	O servidor está rodando em http://localhost:3000
+[06-04-2025 06:46:53.217 PM] info: 	O servidor está rodando em http://localhost:3000
